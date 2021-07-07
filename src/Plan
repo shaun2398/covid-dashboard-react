@@ -1,0 +1,45 @@
+COVID TRACKER PROJECT
+
+
+We have cards
+map
+top 10 infected countries on the right
+bottom right 
+
+APIS
+disease.sh
+
+
+Using VS Live share
+-share local server
+-complete shared overview
+-
+
+App features:
+worldwide map with covid indicators
+cards totals for deaths
+
+
+
+
+1. Create Wireframe
+    -Draw io
+    -create wireframe (web and mobile)
+2. Create React App
+    -npx create react App
+    -firebase
+        -create project
+        -set up your firebase
+3. Cleanup Project
+    -get rid of files that is not needed
+    -delete testfiles, setup test files, logo svg
+    -in App.js, create 
+    
+4. Structure of Covid Tracker (lay out)
+5. Create Header
+6. Create Info Box
+7. Create Table
+8. Create CHart
+9. Create Map
+10. Styling
+11. Deploy ()
